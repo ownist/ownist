@@ -14,4 +14,4 @@ My current stack is:
 
 ###
 
-![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyshahed&radius=10&height=300&bg_color=212830&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
+![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyshahed&radius=10&height=300&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
