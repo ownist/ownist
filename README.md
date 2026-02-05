@@ -1,17 +1,37 @@
+```md
+░█░█░█▀▀░█░█░█░░░▀█▀░▀░█▄█░░░█▀▀░█░█░█▀█░█░█░█▀▀░█▀▄░█
+░█▀█░█▀▀░░█░░▀░░░░█░░░░█░█░░░▀▀█░█▀█░█▀█░█▀█░█▀▀░█░█░▀
+░▀░▀░▀▀▀░░▀░░▀░░░▀▀▀░░░▀░▀░░░▀▀▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀▀░░▀
+```
+
 Hey there!
 
-I'm [Shahed](https://github.com/codebyshahed), a passionate web developer who loves to create stunning, pixel-perfect, interactive websites. I can create websites that increase your business sales.
-I'm not special - but I work hard, like any good developer.
+I'm [Shahed](https://github.com/codebyshahed), a passionate web developer who loves to create clean, pixel-perfect, and interactive websites.
+I build websites that help businesses grow and sell more.
 
-My current stack is:
+I'm not special - I just work hard and love what I do.
+
+**What I Do**: Build responsive and fast websites • Create modern UI with clean design • Turn ideas into real web apps.
+
+**My current stack is**:
 
 - **Frontend**: Tailwind CSS, JavaScript, React.js, Next.js
 - **Backend**: 𝖭𝗈𝖽𝖾.𝗃𝗌, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌
 - **Database**: 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
 - **Tools**: VS Code, Git, Figma
 
-**Hobbies**: `Coding`, `Travelling`, `Cycling`
+<!-- ###
+
+**Featured Projects**: [Portfolio Website]() • [E-commerce Website]() • [Dashboard Application]() -->
 
 ###
 
-![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyshahed&radius=10&height=300&bg_color=282c34&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
+**Contact Me**: [Email](mailto:shahedevise@gmail.com) • [LinkedIn](https://www.linkedin.com/in/codebyshahed/) • [Portfolio](https://github.com/codebyshahed)
+
+###
+
+**Hobbies**: `Coding` • `Travelling` • `Cycling`
+
+###
+
+![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyshahed&radius=10&height=280&bg_color=282c34&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
