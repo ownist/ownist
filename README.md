@@ -26,7 +26,7 @@ I'm not special - I just work hard and love what I do.
 
 ###
 
-**Contact Me**: [Email](mailto:shahedevise@gmail.com) • [LinkedIn](https://www.linkedin.com/in/shahedbishwas/) • [Portfolio](https://www.linkedin.com/in/shahedbishwas/)
+**Contact Me**: [Email](mailto:shahedevise@gmail.com) • [LinkedIn](https://www.linkedin.com/in/shahedbishwas/)
 
 ###
 
