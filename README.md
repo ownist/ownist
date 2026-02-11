@@ -6,7 +6,7 @@
 
 Hey there!
 
-I'm [Shahed](https://github.com/codebyshahed), a passionate web developer who loves to create clean, pixel-perfect, and interactive websites.
+I'm [Shahed](https://github.com/shahedbishwas), a passionate web developer who loves to create clean, pixel-perfect, and interactive websites.
 I build websites that help businesses grow and sell more.
 
 I'm not special - I just work hard and love what I do.
@@ -26,7 +26,7 @@ I'm not special - I just work hard and love what I do.
 
 ###
 
-**Contact Me**: [Email](mailto:shahedevise@gmail.com) • [LinkedIn](https://www.linkedin.com/in/codebyshahed/) • [Portfolio](https://github.com/codebyshahed)
+**Contact Me**: [Email](mailto:shahedevise@gmail.com) • [LinkedIn](https://www.linkedin.com/in/shahedbishwas/) • [Portfolio](https://www.linkedin.com/in/shahedbishwas/)
 
 ###
 
@@ -34,4 +34,4 @@ I'm not special - I just work hard and love what I do.
 
 ###
 
-![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyshahed&radius=10&height=280&bg_color=282c34&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
+![Shahed Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahedbishwas&radius=10&height=280&bg_color=282c34&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
