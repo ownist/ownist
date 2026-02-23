@@ -34,4 +34,4 @@ I'm not special - I just work hard and love what I do.
 
 ###
 
-![Shahed Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ownist&radius=10&height=280&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
+![Shahed Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ownist&radius=10&height=280&bg_color=202124&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
