@@ -2,14 +2,32 @@
 
 I'm **Shahed ([@ownist](https://github.com/ownist))**, a **MERN Stack Developer** from **Dhaka, Bangladesh** 🇧🇩. I love building projects, solving problems, and creating websites that help businesses grow.
 
-[![Facebook Badge](https://img.shields.io/badge/-ownist?style=social&label=facebook)
+<!-- new version -->
+<div align="left">
+  <a href="https://www.facebook.com/ownist" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ownist&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="20" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/shahedbishwas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/the_ownist/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=the_ownist&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1326255849383006238" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="20" alt="discord logo"  />
+  </a>
+</div>
+
+<!-- ---------------------------------------- old version ------------------------- -->
+<!-- [![Facebook Badge](https://img.shields.io/badge/-ownist?style=social&label=facebook)
 ](https://www.facebook.com/ownist)
 [![Linkedin Badge](https://img.shields.io/badge/-shahedbishwas?style=social&label=linkedin)
 ](https://www.linkedin.com/in/shahedbishwas/)
 [![Instagram Badge](https://img.shields.io/badge/-the_ownist?style=social&label=instagram)
 ](https://www.instagram.com/the_ownist/)
 [![Email Badge](https://img.shields.io/badge/-gmail?style=social&logo=gmail&label=email)
-](mailto:shahedevise@gmail.com)
+](mailto:shahedevise@gmail.com) -->
+<!-- ---------------------------------------- old version ------------------------- -->
 
 #### What I do
 
@@ -34,4 +52,4 @@ You can talk to me about
 
 ###
 
-![Shahed Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ownist&radius=6&height=300&bg_color=202124&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
+![Shahed Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ownist&radius=6&height=280&bg_color=202124&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
