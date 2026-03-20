@@ -1,33 +1,12 @@
 ### Nice to see you here 👋
 
-I'm **Shahed ([@ownist](https://github.com/ownist))**, a **MERN Stack Developer** from **Dhaka, Bangladesh** 🇧🇩. I love building projects, solving problems, and creating websites that help businesses grow.
+I'm **[Shahed](https://github.com/ownist)**, a **MERN Stack Developer** from **Dhaka, Bangladesh** 🇧🇩. I love building projects, solving problems, and creating websites that help businesses grow.
 
-<!-- new version -->
-<div align="left">
-  <a href="https://www.facebook.com/ownist" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ownist&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="20" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shahedbishwas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/the_ownist/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=the_ownist&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1326255849383006238" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="20" alt="discord logo"  />
-  </a>
-</div>
-
-<!-- ---------------------------------------- old version ------------------------- -->
-<!-- [![Facebook Badge](https://img.shields.io/badge/-ownist?style=social&label=facebook)
-](https://www.facebook.com/ownist)
-[![Linkedin Badge](https://img.shields.io/badge/-shahedbishwas?style=social&label=linkedin)
-](https://www.linkedin.com/in/shahedbishwas/)
-[![Instagram Badge](https://img.shields.io/badge/-the_ownist?style=social&label=instagram)
-](https://www.instagram.com/the_ownist/)
-[![Email Badge](https://img.shields.io/badge/-gmail?style=social&logo=gmail&label=email)
-](mailto:shahedevise@gmail.com) -->
-<!-- ---------------------------------------- old version ------------------------- -->
+[![Instagram](https://img.shields.io/badge/-@the__ownist-F32763?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/the_ownist)
+[![LinkedIn](https://img.shields.io/badge/-Shahed_Bishwas-0178D4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahedbishwas)
+[![Facebook](https://img.shields.io/badge/-ownist-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ownist)
+[![Discord](https://img.shields.io/badge/-the__ownist-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1326255849383006238)
+[![GitHub](https://img.shields.io/badge/-Follow-24292D?style=flat-square&logo=github&logoColor=white)](https://github.com/ownist)
 
 #### What I do
 
