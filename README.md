@@ -1,7 +1,5 @@
 <img src="./assets/banner.png" width="100%" alt="ami o programmer vaya...!" />
 
-#
-
 ### Nice to see you here 👋
 
 I'm **[Shahed](https://github.com/ownist)**, a **MERN Stack Developer** from **Dhaka, Bangladesh** 🇧🇩. I love building projects, solving problems, and creating websites that help businesses grow.
