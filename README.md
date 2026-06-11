@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" width="100%" alt="ami o programmer vaya...!" />
+<img src="./assets/banner_01.png" width="100%" alt="ami o programmer vaya...!" />
 
 ### Nice to see you here 👋
 
